@@ -21,6 +21,4 @@ variable "instance_configurations" {
     ami           = string
   }))
 
-  
 }
-
